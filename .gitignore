@@ -1,0 +1,8 @@
+.DS_Store
+private/
+internal/
+*.log
+
+# Local editorial files
+*.swp
+*.tmp
