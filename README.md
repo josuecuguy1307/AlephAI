@@ -1,22 +1,21 @@
 # Aleph
 
-> Build your own AI environment.
+**One space. Infinite work.**
 
-Aleph is a macOS desktop platform for working with specialized AI workspaces and composing custom agents and harnesses inside **The Room**.
+A model is only part of the system.
 
-The project is being prepared for its first public release.
+Aleph is a model-agnostic AI workspace platform for working inside specialized environments — or building your own.
 
-## The Room
+Built first for macOS, with a broader cross-platform future in mind.
 
-**The Room** is Aleph's visual environment for composing an agent around the way you actually want it to work.
+## Two ways to work
 
-Bring together models, resources, tools, connectors, other agents, and their relationships in one interactive space.
+Aleph is organized around two complementary pillars:
 
-The goal is not simply to select a model, but to shape the harness around it.
+- **Specialized Workspaces** for focused work inside a defined environment.
+- **The Room** for composing an environment around the way you want an agent to work.
 
-[Placeholder for approved The Room media]
-
-## Specialized workspaces
+## Specialized Workspaces
 
 Aleph includes six specialized environments:
 
@@ -27,19 +26,19 @@ Aleph includes six specialized environments:
 - Legal
 - Design
 
-They are not six labels over the same generic chat interface.
+Each workspace is shaped around its own tools, surfaces, artifacts, and workflow.
 
-Each workspace has its own tools, surfaces, artifacts, and workflow.
+## The Room
 
-[Placeholder for approved workspace media]
+The Room is Aleph's visual environment for composing custom harnesses.
 
-## Choose the intelligence you need
+Bring together models, tools, connectors, resources, and other agents — and shape the relationships between them in one interactive space.
 
-Aleph supports model selection across the product.
+The goal is not simply to select a model, but to build the environment around the work.
 
-Model availability and capabilities can differ by provider and configuration.
+<!-- Approved Aleph hero media will be added here -->
 
-## Built around real workflows
+## Built around real work
 
 Aleph is designed around the idea that the interface, tools, context, and agent harness should adapt to the work — not force every task into the same generic chat surface.
 
@@ -57,6 +56,8 @@ Before source publication, Aleph is completing:
 
 Installation and quickstart instructions will be added only after the release build is verified.
 
+<!-- Approved Aleph workspace media will be added here -->
+
 ## License
 
 Code is planned to be made available under a **Sustainable Use License**.
@@ -65,9 +66,12 @@ Final license text and third-party notices will be included before public releas
 
 ## Development
 
-Aleph has been developed with extensive use of AI-assisted programming under human direction, including product architecture, interaction design, integration decisions, testing, and release decisions.
+Aleph was built through a combination of human programming and AI-assisted programming, under human direction.
+
+Product architecture, interaction design, integrations, testing, and release decisions are human-led.
 
 ---
 
 Aleph
+
 Workspaces when you need focus. The Room when you need freedom.
