@@ -1,22 +1,21 @@
-# Public assets
+# Media map
 
-The `assets/` directory will contain only media approved for publication, including:
+Curated repository media only. Keep large video exports, raw captures, build artifacts, and private media outside the repo.
 
-- logo;
-- mascot;
-- hero/trailer;
-- The Room;
-- Science;
-- Education;
-- Office;
-- Finance;
-- Legal;
-- Design.
+## Current/canonical
 
-Do not upload material containing:
+- `hero/workshop-dark.png` — The Workshop composition surface
+- `hero/science-dark.png` — Science workspace
+- `overview/connect-tools.png` — connector categories
+- `overview/models-and-cli.png` — model/API/CLI integration concept
+- `overview/workspaces-map.png` — six-workspace topology
+- `overview/product-collage.png` — product overview
+- `workspaces/finance-light.png` — Finance
+- `workspaces/legal-light.png` — Legal
 
-- private names or contact details;
-- filesystem paths;
-- internal errors;
-- unrelated overlays;
-- unauthorized documents.
+## Legacy UI naming
+
+- `reference/legacy/home-light-room-label.png`
+- `reference/legacy/home-angled-room-label.png`
+
+These two still display the old "The Room" label. Current documentation uses **The Workshop**.
