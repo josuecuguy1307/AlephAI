@@ -8,6 +8,20 @@ This repository is intended to be the **technical distribution and documentation
 
 > Current release target: **macOS**. Aleph was built first for macOS, with a broader cross-platform future in mind.
 
+## Aleph 0.1.0 for macOS
+
+The first Aleph binary release is available for macOS. Windows and Linux are planned, not available in version 0.1.0. Aleph application source remains private and proprietary; independently licensed third-party components retain their own terms.
+
+- [Website](https://aleph-site-jade.vercel.app/)
+- [Download for macOS](https://aleph-site-jade.vercel.app/download/mac) (DMG, 2,325,636,024 bytes)
+- [Documentation and installation instructions](https://aleph-site-jade.vercel.app/docs/installation/)
+- [Release index and SHA-256](docs/RELEASES.md)
+- [SHA256SUMS](SHA256SUMS)
+
+SHA-256 of `Aleph-macOS.dmg`: `ee42680234bca202fe8f954b9f75d29b4f6e13b7f74f70a38068683c3b9dec72`.
+
+This macOS app is ad-hoc signed and is not notarized. Gatekeeper may warn or block its first opening; verify the downloaded DMG checksum, then follow the [manual-opening instructions](https://aleph-site-jade.vercel.app/docs/installation/). The DMG is hosted on Cloudflare R2, not in this repository.
+
 ![Aleph — The Workshop](assets/hero/workshop-dark.png)
 
 ## What Aleph is
