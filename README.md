@@ -22,7 +22,9 @@ SHA-256 of `Aleph-macOS.dmg`: `ee42680234bca202fe8f954b9f75d29b4f6e13b7f74f70a38
 
 This macOS app is ad-hoc signed and is not notarized. Gatekeeper may warn or block its first opening; verify the downloaded DMG checksum, then follow the [manual-opening instructions](https://aleph-site-jade.vercel.app/docs/installation/). The DMG is hosted on Cloudflare R2, not in this repository.
 
-![Aleph — The Workshop](assets/hero/workshop-dark.png)
+[![Play the Aleph film](assets/hero/aleph-film-connectors-poster.jpg)](assets/hero/aleph-film-connectors.mp4)
+
+▶ [Watch the Aleph film (1:25)](assets/hero/aleph-film-connectors.mp4)
 
 ## What Aleph is
 
