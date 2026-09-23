@@ -7,7 +7,7 @@ First proprietary macOS binary release. Windows and Linux are planned, not avail
 | Item | Location |
 | --- | --- |
 | Website | https://aleph-site-jade.vercel.app/ |
-| Canonical macOS download | https://aleph-site-jade.vercel.app/download/mac |
+|  Canonical macOS download | https://aleph-site-jade.vercel.app/download/mac |
 | Installation documentation | https://aleph-site-jade.vercel.app/docs/installation/ |
 | Release notes | https://aleph-site-jade.vercel.app/docs/release-0-1-0/ |
 | Checksums | [SHA256SUMS](../SHA256SUMS) |

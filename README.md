@@ -13,7 +13,7 @@ This repository is intended to be the **technical distribution and documentation
 The first Aleph binary release is available for macOS. Windows and Linux are planned, not available in version 0.1.0. Aleph application source remains private and proprietary; independently licensed third-party components retain their own terms.
 
 - [Website](https://aleph-site-jade.vercel.app/)
-- [Download for macOS](https://aleph-site-jade.vercel.app/download/mac) (DMG, 2,325,636,024 bytes)
+-  [Download for macOS](https://aleph-site-jade.vercel.app/download/mac) (DMG, 2,325,636,024 bytes)
 - [Documentation and installation instructions](https://aleph-site-jade.vercel.app/docs/installation/)
 - [Release index and SHA-256](docs/RELEASES.md)
 - [SHA256SUMS](SHA256SUMS)
@@ -166,10 +166,6 @@ The technical security model and expected validation gates are documented in [`d
 Security reports should follow [`SECURITY.md`](SECURITY.md).
 
 ## Development
-
-Aleph was built through a combination of human programming and AI-assisted programming, under human direction.
-
-Product architecture, interaction design, integrations, testing, and release decisions are human-led.
 
 Internal contributors should prefer small, reviewable changes, preserve established workspace boundaries, and validate the actual packaged application rather than relying only on source-level tests.
 

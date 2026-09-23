@@ -1,9 +1,5 @@
 # Development
 
-Aleph was built through a combination of human programming and AI-assisted programming, under human direction.
-
-Product architecture, interaction design, integrations, testing, and release decisions are human-led.
-
 ## Working principles
 
 - work from the canonical production source, not historical worktrees;
